@@ -121,9 +121,11 @@ http://127.0.0.1:5000
 
 ## 🎥 **Demo Video**
 
-
-
 ```
+
+
+https://github.com/user-attachments/assets/3b25ea05-78d8-4ae8-acaf-9a0ed61fafd1
+
 
 
 
