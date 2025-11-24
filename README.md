@@ -1,3 +1,6 @@
+<img width="1535" height="830" alt="image" src="https://github.com/user-attachments/assets/a71924db-6183-40f7-82dc-ef39c637d442" />
+
+
 # 🎯 **Gesture-Based Online Examination System**
 
 ### *Enabling paralysed & differently-abled users to write exams using head gestures*
