@@ -126,6 +126,9 @@ http://127.0.0.1:5000
 
 https://github.com/user-attachments/assets/3b25ea05-78d8-4ae8-acaf-9a0ed61fafd1
 
+<img width="1535" height="830" alt="image" src="https://github.com/user-attachments/assets/e3c55f22-30cc-4ffa-8bea-917b6cbed9ac" />
+
+
 
 
 
