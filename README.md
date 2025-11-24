@@ -121,7 +121,7 @@ http://127.0.0.1:5000
 
 ## 🎥 **Demo Video**
 
-You can upload your demo video here after pushing it:
+
 
 ```
 
